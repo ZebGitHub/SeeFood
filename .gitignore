@@ -1,0 +1,3 @@
+# Python Files
+.mypy_cache/
+.venv/
